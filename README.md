@@ -4,7 +4,7 @@ Founder at **[Ultraweb Labs](https://ultraweblabs.com)** — building AI infrast
 
 #### Projects
 
-🧠 **[Engram](https://github.com/bbesner/engram)** — Persistent memory, auto-generated skills, and scheduled automation for Claude Code CLI. Powered by OpenClaw.
+🧠 **[FlipClaw](https://github.com/bbesner/flipclaw)** — Persistent memory, auto-generated skills, and scheduled automation for Claude Code CLI. Powered by OpenClaw.
 
 📱 **[Claude Telegram Relay](https://github.com/bbesner/claude-telegram-relay)** — Remote multi-session Claude Code access from Telegram.
 
