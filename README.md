@@ -1,6 +1,6 @@
 ### Hi, I'm Brad 👋
 
-Founder at **[Ultraweb Labs](https://ultraweb.com)** — building AI infrastructure tools.
+Founder at **[Ultraweb Labs](https://ultraweblabs.com)** — building AI infrastructure tools.
 
 #### Projects
 
